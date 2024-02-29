@@ -1,0 +1,4 @@
+240227233038136971,ERROR:  missing data for column "last_name"
+
+240227233038137966,CONTEXT:  COPY hired_applicants, line 1: "id,first_name,last_name,email,application_date,country,yoe,seniority,technology,code_challenge_score..."
+

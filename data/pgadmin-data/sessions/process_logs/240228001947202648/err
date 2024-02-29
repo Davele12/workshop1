@@ -1,0 +1,4 @@
+240228001947856288,ERROR:  value too long for type character varying(100)
+
+240228001947857278,CONTEXT:  COPY hired_applicants, line 1, column id: "id,first_name,last_name,email,application_date,country,yoe,seniority,technology,code_challenge_score..."
+
