@@ -1,4 +1,0 @@
-240228002320457991,ERROR:  invalid input syntax for type integer: "id,first_name,last_name,email,application_date,country,yoe,seniority,technology,code_challenge_score,technical_interview_score,year,month,day"
-
-240228002320459008,CONTEXT:  COPY hired_applicants, line 1, column id: "id,first_name,last_name,email,application_date,country,yoe,seniority,technology,code_challenge_score..."
-
