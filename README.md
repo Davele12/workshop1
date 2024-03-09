@@ -1,3 +1,5 @@
+# Power BI
+https://app.powerbi.com/view?r=eyJrIjoiN2ViYTI2MjEtOGZhNi00MjhlLWEyZGUtYzkxYjRlM2Q3MzY0IiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9 
 # About this project
 Use the data set to study the number of candidates hired and do an in-depth
 analysis, such as reading, cleaning and analyzing to obtain a result that is easily
